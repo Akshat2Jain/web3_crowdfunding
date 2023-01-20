@@ -10,7 +10,7 @@ const Navbar = () => {
     const [isActive, setIsActive] = useState('dashboard');
     const [toggleDrawer, setToggleDrawer] = useState(false);
   return (
-    <div>New new Navbar</div>
+    <div>New Navbar</div>
   )
 }
 
