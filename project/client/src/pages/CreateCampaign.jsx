@@ -6,6 +6,7 @@ import CustomButton from '../components/CustomButton';
 import { checkIfImage } from '../utils';
 import FormFields from '../components/FormFields';
 import { useStateContext } from '../context';
+import Loader from '../components/Loader';
 
 const CreateCampaign = () => {
   const navigate = useNavigate();
